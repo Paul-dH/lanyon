@@ -3,5 +3,9 @@
 Hoi dit is een test post
 
 ```powershell
-Write-Host "hoi"
+
+# Hello World!
+
+$Welcome = "hoi"
+Write-Host $Welcome
 ```
